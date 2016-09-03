@@ -1,4 +1,4 @@
-package org.jboss.aerogear.devnexus2015.ui.fragment;
+package br.com.odra.devnexus.ui.fragment;
 
 import android.app.Fragment;
 import android.app.LoaderManager;
@@ -17,8 +17,8 @@ import android.view.ViewGroup;
 
 import org.devnexus.sync.simple.SimpleDataAuthenticator;
 import org.devnexus.vo.contract.PresentationContract;
-import org.jboss.aerogear.devnexus2015.MainActivity;
-import org.jboss.aerogear.devnexus2015.R;
+import br.com.odra.devnexus.MainActivity;
+import br.com.odra.devnexus.R;
 
 /**
  * Created by summers on 12/26/14.

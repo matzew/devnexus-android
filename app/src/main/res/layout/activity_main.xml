@@ -37,7 +37,7 @@
             android:id="@+id/drawer_fragment"
 
             android:tag="sidebar"
-            android:name="org.jboss.aerogear.devnexus2015.ui.fragment.DevNexusDrawerFragment"
+            android:name="br.com.odra.devnexus.ui.fragment.DevNexusDrawerFragment"
             />
     </LinearLayout>
 

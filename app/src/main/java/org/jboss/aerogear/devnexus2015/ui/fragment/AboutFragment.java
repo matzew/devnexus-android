@@ -1,4 +1,4 @@
-package org.jboss.aerogear.devnexus2015.ui.fragment;
+package br.com.odra.devnexus.ui.fragment;
 
 import android.app.Fragment;
 import android.app.LoaderManager;
@@ -24,14 +24,14 @@ import com.google.gson.JsonParser;
 
 import org.apache.commons.io.IOUtils;
 import org.devnexus.util.GsonUtils;
-import org.jboss.aerogear.devnexus2015.MainActivity;
-import org.jboss.aerogear.devnexus2015.R;
-import org.jboss.aerogear.devnexus2015.model.License;
-import org.jboss.aerogear.devnexus2015.model.Sponsor;
-import org.jboss.aerogear.devnexus2015.ui.adapter.LicenseRecyclerViewAdapter;
-import org.jboss.aerogear.devnexus2015.ui.adapter.ScheduleItemWithHeaderViewAdapter;
-import org.jboss.aerogear.devnexus2015.ui.adapter.SponsorsRecyclerViewAdapter;
-import org.jboss.aerogear.devnexus2015.util.CenteringDecoration;
+import br.com.odra.devnexus.MainActivity;
+import br.com.odra.devnexus.R;
+import br.com.odra.devnexus.model.License;
+import br.com.odra.devnexus.model.Sponsor;
+import br.com.odra.devnexus.ui.adapter.LicenseRecyclerViewAdapter;
+import br.com.odra.devnexus.ui.adapter.ScheduleItemWithHeaderViewAdapter;
+import br.com.odra.devnexus.ui.adapter.SponsorsRecyclerViewAdapter;
+import br.com.odra.devnexus.util.CenteringDecoration;
 
 import java.io.IOException;
 import java.io.InputStream;

@@ -1,4 +1,4 @@
-package org.jboss.aerogear.devnexus2015.util;
+package br.com.odra.devnexus.util;
 
 import android.content.ContentResolver;
 import android.content.Context;

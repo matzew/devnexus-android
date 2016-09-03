@@ -1,4 +1,4 @@
-package org.jboss.aerogear.devnexus2015.ui.fragment;
+package br.com.odra.devnexus.ui.fragment;
 
 import android.app.Fragment;
 import android.app.LoaderManager;
@@ -22,12 +22,12 @@ import org.devnexus.util.GsonUtils;
 import org.devnexus.vo.Presentation;
 import org.devnexus.vo.ScheduleItem;
 import org.devnexus.vo.contract.ScheduleItemContract;
-import org.jboss.aerogear.devnexus2015.MainActivity;
-import org.jboss.aerogear.devnexus2015.R;
-import org.jboss.aerogear.devnexus2015.ui.adapter.ScheduleItemWithHeaderViewAdapter;
-import org.jboss.aerogear.devnexus2015.ui.adapter.SessionSpinnerAdaper;
-import org.jboss.aerogear.devnexus2015.util.CenteringDecoration;
-import org.jboss.aerogear.devnexus2015.util.SessionClickListener;
+import br.com.odra.devnexus.MainActivity;
+import br.com.odra.devnexus.R;
+import br.com.odra.devnexus.ui.adapter.ScheduleItemWithHeaderViewAdapter;
+import br.com.odra.devnexus.ui.adapter.SessionSpinnerAdaper;
+import br.com.odra.devnexus.util.CenteringDecoration;
+import br.com.odra.devnexus.util.SessionClickListener;
 
 import java.util.ArrayList;
 import java.util.Collections;

@@ -1,4 +1,4 @@
-package org.jboss.aerogear.devnexus2015.sync;
+package br.com.odra.devnexus.sync;
 
 import android.accounts.AbstractAccountAuthenticator;
 import android.accounts.Account;

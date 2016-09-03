@@ -1,4 +1,4 @@
-package org.jboss.aerogear.devnexus2015.ui.fragment;
+package br.com.odra.devnexus.ui.fragment;
 
 import android.app.Fragment;
 import android.app.LoaderManager;
@@ -31,11 +31,11 @@ import org.devnexus.vo.UserCalendar;
 import org.devnexus.vo.contract.PresentationContract;
 import org.devnexus.vo.contract.ScheduleItemContract;
 import org.devnexus.vo.contract.UserCalendarContract;
-import org.jboss.aerogear.devnexus2015.MainActivity;
-import org.jboss.aerogear.devnexus2015.R;
-import org.jboss.aerogear.devnexus2015.ui.adapter.TagAdapter;
-import org.jboss.aerogear.devnexus2015.ui.view.HorizontalListView;
-import org.jboss.aerogear.devnexus2015.util.ColorUtils;
+import br.com.odra.devnexus.MainActivity;
+import br.com.odra.devnexus.R;
+import br.com.odra.devnexus.ui.adapter.TagAdapter;
+import br.com.odra.devnexus.ui.view.HorizontalListView;
+import br.com.odra.devnexus.util.ColorUtils;
 
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;

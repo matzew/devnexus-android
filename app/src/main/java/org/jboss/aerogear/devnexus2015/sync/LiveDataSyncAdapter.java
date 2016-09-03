@@ -1,4 +1,4 @@
-package org.jboss.aerogear.devnexus2015.sync;
+package br.com.odra.devnexus.sync;
 
 import android.accounts.Account;
 import android.accounts.AccountManager;
@@ -27,7 +27,7 @@ import org.jboss.aerogear.android.pipe.Pipe;
 import org.jboss.aerogear.android.pipe.PipeManager;
 import org.jboss.aerogear.android.pipe.rest.RestfulPipeConfiguration;
 import org.jboss.aerogear.android.pipe.rest.gson.GsonResponseParser;
-import org.jboss.aerogear.devnexus2015.R;
+import br.com.odra.devnexus.R;
 
 import java.io.IOException;
 import java.io.InputStream;

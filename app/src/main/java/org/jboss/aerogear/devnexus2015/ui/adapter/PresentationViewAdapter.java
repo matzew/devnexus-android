@@ -1,4 +1,4 @@
-package org.jboss.aerogear.devnexus2015.ui.adapter;
+package br.com.odra.devnexus.ui.adapter;
 
 import android.content.Context;
 import android.graphics.drawable.ColorDrawable;
@@ -14,8 +14,8 @@ import com.squareup.picasso.Picasso;
 
 import org.devnexus.util.TrackRoomUtil;
 import org.devnexus.vo.Presentation;
-import org.jboss.aerogear.devnexus2015.R;
-import org.jboss.aerogear.devnexus2015.util.SessionClickListener;
+import br.com.odra.devnexus.R;
+import br.com.odra.devnexus.util.SessionClickListener;
 
 import java.util.ArrayList;
 import java.util.List;

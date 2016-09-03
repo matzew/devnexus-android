@@ -154,7 +154,7 @@
                     android:layout_toRightOf="@id/center"
                     android:visibility="invisible" />
 
-                <org.jboss.aerogear.devnexus2015.ui.view.HorizontalListView
+                <br.com.odra.devnexus.ui.view.HorizontalListView
                     android:id="@+id/tags"
                     android:layout_width="wrap_content"
                     android:layout_height="26dp"

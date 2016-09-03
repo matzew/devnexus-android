@@ -1,4 +1,4 @@
-package org.jboss.aerogear.devnexus2015.ui.fragment;
+package br.com.odra.devnexus.ui.fragment;
 
 import android.app.Activity;
 import android.app.Dialog;
@@ -23,11 +23,11 @@ import org.devnexus.vo.Presentation;
 import org.devnexus.vo.ScheduleItem;
 import org.devnexus.vo.UserCalendar;
 import org.devnexus.vo.contract.ScheduleItemContract;
-import org.jboss.aerogear.devnexus2015.R;
-import org.jboss.aerogear.devnexus2015.ui.adapter.PresentationViewAdapter;
-import org.jboss.aerogear.devnexus2015.util.CenteringDecoration;
-import org.jboss.aerogear.devnexus2015.util.SessionClickListener;
-import org.jboss.aerogear.devnexus2015.util.SessionPickerReceiver;
+import br.com.odra.devnexus.R;
+import br.com.odra.devnexus.ui.adapter.PresentationViewAdapter;
+import br.com.odra.devnexus.util.CenteringDecoration;
+import br.com.odra.devnexus.util.SessionClickListener;
+import br.com.odra.devnexus.util.SessionPickerReceiver;
 
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;

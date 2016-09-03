@@ -1,4 +1,4 @@
-package org.jboss.aerogear.devnexus2015.util;
+package br.com.odra.devnexus.util;
 
 import android.os.AsyncTask;
 import android.util.Log;
@@ -12,7 +12,7 @@ import com.squareup.okhttp.Request;
 import com.squareup.okhttp.RequestBody;
 import com.squareup.okhttp.Response;
 
-import org.jboss.aerogear.devnexus2015.MainActivity;
+import br.com.odra.devnexus.MainActivity;
 
 import java.io.IOException;
 import java.util.concurrent.TimeUnit;

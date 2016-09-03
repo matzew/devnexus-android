@@ -1,4 +1,4 @@
-package org.jboss.aerogear.devnexus2015.ui.fragment;
+package br.com.odra.devnexus.ui.fragment;
 
 import android.app.Fragment;
 import android.app.LoaderManager;
@@ -31,10 +31,10 @@ import org.apache.commons.io.IOUtils;
 import org.devnexus.util.GsonUtils;
 import org.devnexus.vo.BadgeContact;
 import org.devnexus.vo.contract.BadgeContactContract;
-import org.jboss.aerogear.devnexus2015.MainActivity;
-import org.jboss.aerogear.devnexus2015.R;
-import org.jboss.aerogear.devnexus2015.ui.adapter.BadgeContactViewAdapter;
-import org.jboss.aerogear.devnexus2015.util.CenteringDecoration;
+import br.com.odra.devnexus.MainActivity;
+import br.com.odra.devnexus.R;
+import br.com.odra.devnexus.ui.adapter.BadgeContactViewAdapter;
+import br.com.odra.devnexus.util.CenteringDecoration;
 
 import java.io.File;
 import java.io.FileNotFoundException;

@@ -1,8 +1,8 @@
-package org.jboss.aerogear.devnexus2015.model;
+package br.com.odra.devnexus.model;
 
 import android.app.Fragment;
 
-import static org.jboss.aerogear.devnexus2015.MainActivity.BackStackOperation;
+import static br.com.odra.devnexus.MainActivity.BackStackOperation;
 
 public class DrawerItem {
 

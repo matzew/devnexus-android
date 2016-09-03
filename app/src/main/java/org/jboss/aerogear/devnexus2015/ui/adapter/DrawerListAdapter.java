@@ -1,4 +1,4 @@
-package org.jboss.aerogear.devnexus2015.ui.adapter;
+package br.com.odra.devnexus.ui.adapter;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -8,8 +8,8 @@ import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import org.jboss.aerogear.devnexus2015.R;
-import org.jboss.aerogear.devnexus2015.model.DrawerItem;
+import br.com.odra.devnexus.R;
+import br.com.odra.devnexus.model.DrawerItem;
 
 import java.util.List;
 

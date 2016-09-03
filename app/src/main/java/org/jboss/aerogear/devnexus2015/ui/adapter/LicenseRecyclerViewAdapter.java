@@ -1,4 +1,4 @@
-package org.jboss.aerogear.devnexus2015.ui.adapter;
+package br.com.odra.devnexus.ui.adapter;
 
 import android.app.Activity;
 import android.app.Fragment;
@@ -11,8 +11,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import org.jboss.aerogear.devnexus2015.R;
-import org.jboss.aerogear.devnexus2015.model.License;
+import br.com.odra.devnexus.R;
+import br.com.odra.devnexus.model.License;
 
 import java.util.ArrayList;
 

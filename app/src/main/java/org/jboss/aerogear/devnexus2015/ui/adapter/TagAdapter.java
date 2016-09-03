@@ -1,4 +1,4 @@
-package org.jboss.aerogear.devnexus2015.ui.adapter;
+package br.com.odra.devnexus.ui.adapter;
 
 import android.content.Context;
 import android.database.DataSetObserver;
@@ -11,7 +11,7 @@ import android.widget.TextView;
 import org.devnexus.util.TrackRoomUtil;
 import org.devnexus.vo.Presentation;
 import org.devnexus.vo.PresentationTag;
-import org.jboss.aerogear.devnexus2015.R;
+import br.com.odra.devnexus.R;
 
 import java.util.ArrayList;
 import java.util.Collections;

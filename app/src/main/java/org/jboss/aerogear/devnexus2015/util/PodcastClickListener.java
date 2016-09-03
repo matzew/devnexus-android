@@ -1,4 +1,4 @@
-package org.jboss.aerogear.devnexus2015.util;
+package br.com.odra.devnexus.util;
 
 import org.devnexus.vo.Podcast;
 

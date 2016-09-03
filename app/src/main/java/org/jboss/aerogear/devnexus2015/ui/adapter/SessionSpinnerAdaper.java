@@ -1,4 +1,4 @@
-package org.jboss.aerogear.devnexus2015.ui.adapter;
+package br.com.odra.devnexus.ui.adapter;
 
 import android.content.Context;
 import android.database.DataSetObserver;
@@ -9,7 +9,7 @@ import android.widget.BaseAdapter;
 import android.widget.SpinnerAdapter;
 import android.widget.TextView;
 
-import org.jboss.aerogear.devnexus2015.R;
+import br.com.odra.devnexus.R;
 
 /**
  * Created by summers on 1/3/15.

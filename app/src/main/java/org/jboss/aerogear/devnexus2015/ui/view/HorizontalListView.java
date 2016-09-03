@@ -24,7 +24,7 @@
 * THE SOFTWARE.
 *
 */
-package org.jboss.aerogear.devnexus2015.ui.view;
+package br.com.odra.devnexus.ui.view;
 import android.content.Context;
 import android.database.DataSetObserver;
 import android.graphics.Rect;

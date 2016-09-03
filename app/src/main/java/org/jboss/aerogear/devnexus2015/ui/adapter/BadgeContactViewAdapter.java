@@ -1,4 +1,4 @@
-package org.jboss.aerogear.devnexus2015.ui.adapter;
+package br.com.odra.devnexus.ui.adapter;
 
 import android.content.Context;
 import android.support.v7.widget.GridLayoutManager;
@@ -9,7 +9,7 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 import org.devnexus.vo.BadgeContact;
-import org.jboss.aerogear.devnexus2015.R;
+import br.com.odra.devnexus.R;
 
 import java.util.List;
 

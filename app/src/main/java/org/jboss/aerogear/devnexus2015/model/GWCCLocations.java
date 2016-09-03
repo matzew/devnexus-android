@@ -1,4 +1,4 @@
-package org.jboss.aerogear.devnexus2015.model;
+package br.com.odra.devnexus.model;
 
 /**
  * This is a utility class which defines the different locations in the GWCC.
@@ -13,15 +13,15 @@ import com.google.android.gms.maps.model.BitmapDescriptorFactory;
 import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.MarkerOptions;
 
-import org.jboss.aerogear.devnexus2015.R;
-import org.jboss.aerogear.devnexus2015.util.GWCCMapIconGenerator;
+import br.com.odra.devnexus.R;
+import br.com.odra.devnexus.util.GWCCMapIconGenerator;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import static org.jboss.aerogear.devnexus2015.model.RoomMetaData.GalleriaFloor;
+import static br.com.odra.devnexus.model.RoomMetaData.GalleriaFloor;
 
 public final class GWCCLocations {
 

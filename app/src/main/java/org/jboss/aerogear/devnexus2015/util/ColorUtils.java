@@ -1,9 +1,9 @@
-package org.jboss.aerogear.devnexus2015.util;
+package br.com.odra.devnexus.util;
 
 import android.content.Context;
 import android.graphics.Color;
 
-import org.jboss.aerogear.devnexus2015.R;
+import br.com.odra.devnexus.R;
 
 /**
  * Created by summers on 2/22/15.

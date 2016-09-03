@@ -1,4 +1,4 @@
-package org.jboss.aerogear.devnexus2015.ui.fragment;
+package br.com.odra.devnexus.ui.fragment;
 
 import android.app.Fragment;
 import android.os.Bundle;
@@ -9,15 +9,15 @@ import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.ListView;
 
-import org.jboss.aerogear.devnexus2015.MainActivity;
-import org.jboss.aerogear.devnexus2015.R;
-import org.jboss.aerogear.devnexus2015.model.DrawerItem;
-import org.jboss.aerogear.devnexus2015.ui.adapter.DrawerListAdapter;
+import br.com.odra.devnexus.MainActivity;
+import br.com.odra.devnexus.R;
+import br.com.odra.devnexus.model.DrawerItem;
+import br.com.odra.devnexus.ui.adapter.DrawerListAdapter;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import static org.jboss.aerogear.devnexus2015.MainActivity.BackStackOperation.RESET;
+import static br.com.odra.devnexus.MainActivity.BackStackOperation.RESET;
 
 public class DevNexusDrawerFragment extends Fragment {
 

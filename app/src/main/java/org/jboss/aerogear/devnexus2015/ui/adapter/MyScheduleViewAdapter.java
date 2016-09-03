@@ -1,4 +1,4 @@
-package org.jboss.aerogear.devnexus2015.ui.adapter;
+package br.com.odra.devnexus.ui.adapter;
 
 import android.content.Context;
 import android.graphics.Color;
@@ -17,11 +17,11 @@ import org.devnexus.vo.Room;
 import org.devnexus.vo.ScheduleItem;
 import org.devnexus.vo.UserCalendar;
 import org.devnexus.vo.contract.UserCalendarContract;
-import org.jboss.aerogear.devnexus2015.R;
-import org.jboss.aerogear.devnexus2015.util.AddSessionClickListener;
-import org.jboss.aerogear.devnexus2015.util.ColorUtils;
-import org.jboss.aerogear.devnexus2015.util.Optional;
-import org.jboss.aerogear.devnexus2015.util.SessionClickListener;
+import br.com.odra.devnexus.R;
+import br.com.odra.devnexus.util.AddSessionClickListener;
+import br.com.odra.devnexus.util.ColorUtils;
+import br.com.odra.devnexus.util.Optional;
+import br.com.odra.devnexus.util.SessionClickListener;
 
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;

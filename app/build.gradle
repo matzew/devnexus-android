@@ -4,8 +4,8 @@ apply plugin: 'com.google.gms.google-services'
 def SERVER_KEY = '"' + DevNexusServerKeyProp + '"'?: '"Define DevNexusServerKeyProp in gradle.properties"'
 
 android {
-    compileSdkVersion 23
-    buildToolsVersion '23.0.2'
+    compileSdkVersion 24
+    buildToolsVersion '24.0.1'
 
     defaultConfig {
         applicationId "org.devnexus"

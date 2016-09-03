@@ -47,7 +47,7 @@ import com.google.android.gms.vision.Detector;
 import com.google.android.gms.vision.barcode.Barcode;
 import com.google.android.gms.vision.barcode.BarcodeDetector;
 
-import org.jboss.aerogear.devnexus2015.R;
+import br.com.odra.devnexus.R;
 
 import java.io.IOException;
 

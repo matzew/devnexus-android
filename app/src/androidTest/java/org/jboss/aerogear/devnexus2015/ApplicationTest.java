@@ -1,4 +1,4 @@
-package org.jboss.aerogear.devnexus2015;
+package br.com.odra.devnexus;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

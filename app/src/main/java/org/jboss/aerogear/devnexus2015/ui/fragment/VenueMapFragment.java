@@ -16,7 +16,7 @@
  * This class includes code from https://github.com/google/iosched/blob/master/android/src/main/java/com/google/samples/apps/iosched/map/MapFragment.java
  *
  */
-package org.jboss.aerogear.devnexus2015.ui.fragment;
+package br.com.odra.devnexus.ui.fragment;
 
 import android.app.Fragment;
 import android.app.FragmentManager;
@@ -49,10 +49,10 @@ import com.google.samples.apps.iosched.map.util.CachedTileProvider;
 import com.google.samples.apps.iosched.map.util.TileLoadingTask;
 import com.google.samples.apps.iosched.util.MapUtils;
 
-import org.jboss.aerogear.devnexus2015.MainActivity;
-import org.jboss.aerogear.devnexus2015.R;
-import org.jboss.aerogear.devnexus2015.model.GWCCLocations;
-import org.jboss.aerogear.devnexus2015.model.RoomMetaData;
+import br.com.odra.devnexus.MainActivity;
+import br.com.odra.devnexus.R;
+import br.com.odra.devnexus.model.GWCCLocations;
+import br.com.odra.devnexus.model.RoomMetaData;
 
 import java.io.IOException;
 import java.util.ArrayList;

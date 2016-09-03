@@ -1,4 +1,4 @@
-package org.jboss.aerogear.devnexus2015.model;
+package br.com.odra.devnexus.model;
 
 import android.support.annotation.Nullable;
 

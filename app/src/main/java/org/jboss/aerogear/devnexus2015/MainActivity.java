@@ -1,4 +1,4 @@
-package org.jboss.aerogear.devnexus2015;
+package br.com.odra.devnexus;
 
 import android.accounts.AccountManager;
 import android.app.Fragment;
@@ -32,8 +32,8 @@ import org.devnexus.util.AccountUtil;
 import org.devnexus.util.StringUtils;
 import org.devnexus.vo.BadgeContact;
 import org.devnexus.vo.contract.BadgeContactContract;
-import org.jboss.aerogear.devnexus2015.ui.fragment.SetupFragment;
-import org.jboss.aerogear.devnexus2015.util.AndroidSignInTask;
+import br.com.odra.devnexus.ui.fragment.SetupFragment;
+import br.com.odra.devnexus.util.AndroidSignInTask;
 
 import butterknife.Bind;
 import butterknife.ButterKnife;
