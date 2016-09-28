@@ -422,6 +422,6 @@ ImmutableDirectoryInput{name=09a0faebe6c0d9764bbe13ae83a067144c8f026a, file=/app
 
 BUILD SUCCESSFUL
 
-Total time: 3 mins 55.525 secs
+Total time: 5 mins 42.403 secs
 
 This build could be faster, please consider using the Gradle Daemon: https://docs.gradle.org/2.10/userguide/gradle_daemon.html
