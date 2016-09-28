@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "1029988659301",
+    "project_id": "odra-dev"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029988659301:android:8c334b53abedf4d0",
+        "android_client_info": {
+          "package_name": "br.com.odra.devnexus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7waLGFwvzzKbIRHmcRKq4xMPK9i5gBSs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-82297141-1"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

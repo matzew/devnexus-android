@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DevNexus 2016</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="loading_text">Please wait while we download DevNexus data.</string>
+    <string name="all_events">All Events</string>
+
+    <string name="workshops">Workshop (Full Day)</string>
+    <string name="breakouts">Breakouts</string>
+    <string name="breaks_and_social">Breaks and Social</string>
+    <string name="topics">Topics</string>
+    <string name="topic_html5">HTML5</string>
+    <string name="topic_javascript">JavaScript</string>
+    <string name="topic_web">Web</string>
+    <string name="topic_agile">Agile</string>
+    <string name="topic_jvm_languages">JVM Languages</string>
+    <string name="topic_cloud_and_devopts">Cloud + DevOps</string>
+    <string name="topic_mobile">Mobile</string>
+    <string name="topic_misc">Misc</string>
+    <string name="topic_data_integration_iot"><![CDATA[Data, Integration & IoT]]></string>
+    <string name="topic_microservices_and_security">Microservices + Security</string>
+    <string name="keynote">Keynotes</string>
+    <string name="topic_java">Java</string>
+    <string name="topic_functional_programming">Functional Programming</string>
+    <string name="topic_user_experience_plus_tools">User Experience + Tools</string>
+    <string name="all_tracks">All Topics</string>
+    <string name="exhibit_area">Exhibit Area</string>
+    <string name="a301">A301</string>
+    <string name="a302">A302</string>
+    <string name="a305">A305</string>
+    <string name="a307">A307</string>
+    <string name="a311">A311</string>
+    <string name="a312">A312</string>
+    <string name="a313">A313</string>
+    <string name="a314">A314</string>
+    <string name="a315">A315</string>
+    <string name="a316">A316</string>
+    <string name="sidney_marcus_auditorium">Sidney Marcus \n Auditorium</string>
+    <string name="a401">A401</string>
+    <string name="a402">A402</string>
+    <string name="a403">A403</string>
+    <string name="a404">A404</string>
+    <string name="a405">A405</string>
+    <string name="a406">A406</string>
+    <string name="a407">A407</string>
+    <string name="a411">A411</string>
+    <string name="a412">A412</string>
+    <string name="venue_name">Georgia World Congress Center</string>
+    <string name="topic_microservices">Microservices</string>
+    <string name="topic_security">Security</string>
+    <string name="topic_architecture">Architecture</string>
+    <string name="permission_camera_rationale">Access to the camera is needed for badge scanning.</string>
+    <string name="ok">OK</string>
+    <string name="low_storage_error">Badge Scanning cannot be run due to low storage.</string>
+    <string name="no_camera_permission">Badge Scanning requires the Camera permission.  The Activity will return to the main app.</string>
+    <string name="sponsors">Sponsors</string>
+    <string name="spnsor_note">We would like to thank all DevNexus 2016 sponsors.</string>
+    <string name="platinum_sponsors">Platinum Sponsors</string>
+    <string name="gold_sponsors">Gold Sponsors</string>
+    <string name="silver_sponsors">Silver Sponsors</string>
+    <string name="badge_sponsor">Badge Sponsor</string>
+    <string name="cocktail_sponsors">Cocktail Hour Sponsors</string>
+    <string name="licenses">Licenses</string>
+    <string name="license_note">The DevNexus app makes use of the following Open Source libraries:</string>
+    <string name="topic_nosql">NoSQL</string>
+    <string name="pick_account" >You must pick an account to synchronize your schedule.</string>
+
+
+
+</resources>

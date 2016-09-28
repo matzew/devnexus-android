@@ -1,0 +1,427 @@
+Downloading https://services.gradle.org/distributions/gradle-2.10-all.zip
+.............................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+Unzipping /root/.gradle/wrapper/dists/gradle-2.10-all/5b6kqrscumh9p4evkkemdk57ad/gradle-2.10-all.zip to /root/.gradle/wrapper/dists/gradle-2.10-all/5b6kqrscumh9p4evkkemdk57ad
+Set executable permissions for: /root/.gradle/wrapper/dists/gradle-2.10-all/5b6kqrscumh9p4evkkemdk57ad/gradle-2.10/bin/gradle
+Download https://jcenter.bintray.com/com/android/tools/build/gradle/2.0.0/gradle-2.0.0.pom
+Download https://jcenter.bintray.com/com/google/gms/google-services/1.5.0/google-services-1.5.0.pom
+Download https://jcenter.bintray.com/com/android/tools/build/gradle-core/2.0.0/gradle-core-2.0.0.pom
+Download https://jcenter.bintray.com/com/android/tools/build/builder/2.0.0/builder-2.0.0.pom
+Download https://jcenter.bintray.com/com/android/tools/lint/lint/25.0.0/lint-25.0.0.pom
+Download https://jcenter.bintray.com/com/android/tools/build/transform-api/2.0.0-deprecated-use-gradle-api/transform-api-2.0.0-deprecated-use-gradle-api.pom
+Download https://jcenter.bintray.com/com/android/tools/build/gradle-api/2.0.0/gradle-api-2.0.0.pom
+Download https://jcenter.bintray.com/com/android/databinding/compilerCommon/2.0.0/compilerCommon-2.0.0.pom
+Download https://jcenter.bintray.com/org/ow2/asm/asm/5.0.3/asm-5.0.3.pom
+Download https://jcenter.bintray.com/org/ow2/asm/asm-parent/5.0.3/asm-parent-5.0.3.pom
+Download https://jcenter.bintray.com/org/ow2/ow2/1.3/ow2-1.3.pom
+Download https://jcenter.bintray.com/org/ow2/asm/asm-commons/5.0.3/asm-commons-5.0.3.pom
+Download https://jcenter.bintray.com/net/sf/proguard/proguard-gradle/5.2.1/proguard-gradle-5.2.1.pom
+Download https://jcenter.bintray.com/net/sf/proguard/proguard-parent/5.2.1/proguard-parent-5.2.1.pom
+Download https://jcenter.bintray.com/org/jacoco/org.jacoco.core/0.7.4.201502262128/org.jacoco.core-0.7.4.201502262128.pom
+Download https://jcenter.bintray.com/org/jacoco/org.jacoco.build/0.7.4.201502262128/org.jacoco.build-0.7.4.201502262128.pom
+Download https://jcenter.bintray.com/org/antlr/antlr/3.5.2/antlr-3.5.2.pom
+Download https://jcenter.bintray.com/org/antlr/antlr-master/3.5.2/antlr-master-3.5.2.pom
+Download https://jcenter.bintray.com/org/sonatype/oss/oss-parent/9/oss-parent-9.pom
+Download https://jcenter.bintray.com/com/android/tools/build/builder-model/2.0.0/builder-model-2.0.0.pom
+Download https://jcenter.bintray.com/com/android/tools/build/builder-test-api/2.0.0/builder-test-api-2.0.0.pom
+Download https://jcenter.bintray.com/com/android/tools/sdklib/25.0.0/sdklib-25.0.0.pom
+Download https://jcenter.bintray.com/com/android/tools/sdk-common/25.0.0/sdk-common-25.0.0.pom
+Download https://jcenter.bintray.com/com/android/tools/common/25.0.0/common-25.0.0.pom
+Download https://jcenter.bintray.com/com/android/tools/build/manifest-merger/25.0.0/manifest-merger-25.0.0.pom
+Download https://jcenter.bintray.com/com/android/tools/ddms/ddmlib/25.0.0/ddmlib-25.0.0.pom
+Download https://jcenter.bintray.com/com/android/tools/jack/jack-api/0.9.0/jack-api-0.9.0.pom
+Download https://jcenter.bintray.com/com/android/tools/jill/jill-api/0.9.0/jill-api-0.9.0.pom
+Download https://jcenter.bintray.com/com/squareup/javawriter/2.5.0/javawriter-2.5.0.pom
+Download https://jcenter.bintray.com/org/sonatype/oss/oss-parent/7/oss-parent-7.pom
+Download https://jcenter.bintray.com/org/bouncycastle/bcpkix-jdk15on/1.48/bcpkix-jdk15on-1.48.pom
+Download https://jcenter.bintray.com/org/bouncycastle/bcprov-jdk15on/1.48/bcprov-jdk15on-1.48.pom
+Download https://jcenter.bintray.com/org/ow2/asm/asm-tree/5.0.3/asm-tree-5.0.3.pom
+Download https://jcenter.bintray.com/com/android/tools/lint/lint-checks/25.0.0/lint-checks-25.0.0.pom
+Download https://jcenter.bintray.com/org/eclipse/jdt/core/compiler/ecj/4.4.2/ecj-4.4.2.pom
+Download https://jcenter.bintray.com/com/android/tools/annotations/25.0.0/annotations-25.0.0.pom
+Download https://jcenter.bintray.com/com/google/guava/guava/17.0/guava-17.0.pom
+Download https://jcenter.bintray.com/com/google/guava/guava-parent/17.0/guava-parent-17.0.pom
+Download https://jcenter.bintray.com/com/android/databinding/baseLibrary/2.0.0/baseLibrary-2.0.0.pom
+Download https://jcenter.bintray.com/com/tunnelvisionlabs/antlr4/4.5/antlr4-4.5.pom
+Download https://jcenter.bintray.com/com/tunnelvisionlabs/antlr4-master/4.5/antlr4-master-4.5.pom
+Download https://jcenter.bintray.com/commons-io/commons-io/2.4/commons-io-2.4.pom
+Download https://jcenter.bintray.com/org/apache/commons/commons-parent/25/commons-parent-25.pom
+Download https://jcenter.bintray.com/org/apache/apache/9/apache-9.pom
+Download https://jcenter.bintray.com/com/googlecode/juniversalchardet/juniversalchardet/1.0.3/juniversalchardet-1.0.3.pom
+Download https://jcenter.bintray.com/net/sf/proguard/proguard-base/5.2.1/proguard-base-5.2.1.pom
+Download https://jcenter.bintray.com/org/ow2/asm/asm-debug-all/5.0.1/asm-debug-all-5.0.1.pom
+Download https://jcenter.bintray.com/org/ow2/asm/asm-parent/5.0.1/asm-parent-5.0.1.pom
+Download https://jcenter.bintray.com/org/antlr/antlr-runtime/3.5.2/antlr-runtime-3.5.2.pom
+Download https://jcenter.bintray.com/org/antlr/ST4/4.0.8/ST4-4.0.8.pom
+Download https://jcenter.bintray.com/com/android/tools/layoutlib/layoutlib-api/25.0.0/layoutlib-api-25.0.0.pom
+Download https://jcenter.bintray.com/com/android/tools/dvlib/25.0.0/dvlib-25.0.0.pom
+Download https://jcenter.bintray.com/com/android/tools/repository/25.0.0/repository-25.0.0.pom
+Download https://jcenter.bintray.com/com/google/code/gson/gson/2.2.4/gson-2.2.4.pom
+Download https://jcenter.bintray.com/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.pom
+Download https://jcenter.bintray.com/org/apache/commons/commons-parent/33/commons-parent-33.pom
+Download https://jcenter.bintray.com/org/apache/apache/13/apache-13.pom
+Download https://jcenter.bintray.com/org/apache/httpcomponents/httpclient/4.1.1/httpclient-4.1.1.pom
+Download https://jcenter.bintray.com/org/apache/httpcomponents/httpcomponents-client/4.1.1/httpcomponents-client-4.1.1.pom
+Download https://jcenter.bintray.com/org/apache/httpcomponents/project/4.1.1/project-4.1.1.pom
+Download https://jcenter.bintray.com/org/apache/httpcomponents/httpmime/4.1/httpmime-4.1.pom
+Download https://jcenter.bintray.com/org/apache/httpcomponents/httpcomponents-client/4.1/httpcomponents-client-4.1.pom
+Download https://jcenter.bintray.com/net/sf/kxml/kxml2/2.3.0/kxml2-2.3.0.pom
+Download https://jcenter.bintray.com/com/android/tools/lint/lint-api/25.0.0/lint-api-25.0.0.pom
+Download https://jcenter.bintray.com/org/ow2/asm/asm-analysis/5.0.3/asm-analysis-5.0.3.pom
+Download https://jcenter.bintray.com/com/tunnelvisionlabs/antlr4-runtime/4.5/antlr4-runtime-4.5.pom
+Download https://jcenter.bintray.com/com/tunnelvisionlabs/antlr4-annotations/4.5/antlr4-annotations-4.5.pom
+Download https://jcenter.bintray.com/com/intellij/annotations/12.0/annotations-12.0.pom
+Download https://jcenter.bintray.com/org/apache/httpcomponents/httpcore/4.1/httpcore-4.1.pom
+Download https://jcenter.bintray.com/org/apache/httpcomponents/httpcomponents-core/4.1/httpcomponents-core-4.1.pom
+Download https://jcenter.bintray.com/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.pom
+Download https://jcenter.bintray.com/org/apache/commons/commons-parent/5/commons-parent-5.pom
+Download https://jcenter.bintray.com/org/apache/apache/4/apache-4.pom
+Download https://jcenter.bintray.com/commons-codec/commons-codec/1.4/commons-codec-1.4.pom
+Download https://jcenter.bintray.com/org/apache/commons/commons-parent/11/commons-parent-11.pom
+Download https://jcenter.bintray.com/com/android/tools/external/lombok/lombok-ast/0.2.3/lombok-ast-0.2.3.pom
+Download https://jcenter.bintray.com/org/abego/treelayout/org.abego.treelayout.core/1.0.1/org.abego.treelayout.core-1.0.1.pom
+Download https://jcenter.bintray.com/com/android/tools/build/gradle/2.0.0/gradle-2.0.0.jar
+Download https://jcenter.bintray.com/com/google/gms/google-services/1.5.0/google-services-1.5.0.jar
+Download https://jcenter.bintray.com/com/android/tools/build/gradle-core/2.0.0/gradle-core-2.0.0.jar
+Download https://jcenter.bintray.com/com/android/tools/build/builder/2.0.0/builder-2.0.0.jar
+Download https://jcenter.bintray.com/com/android/tools/lint/lint/25.0.0/lint-25.0.0.jar
+Download https://jcenter.bintray.com/com/android/tools/build/transform-api/2.0.0-deprecated-use-gradle-api/transform-api-2.0.0-deprecated-use-gradle-api.jar
+Download https://jcenter.bintray.com/com/android/tools/build/gradle-api/2.0.0/gradle-api-2.0.0.jar
+Download https://jcenter.bintray.com/com/android/databinding/compilerCommon/2.0.0/compilerCommon-2.0.0.jar
+Download https://jcenter.bintray.com/org/ow2/asm/asm/5.0.3/asm-5.0.3.jar
+Download https://jcenter.bintray.com/org/ow2/asm/asm-commons/5.0.3/asm-commons-5.0.3.jar
+Download https://jcenter.bintray.com/net/sf/proguard/proguard-gradle/5.2.1/proguard-gradle-5.2.1.jar
+Download https://jcenter.bintray.com/org/jacoco/org.jacoco.core/0.7.4.201502262128/org.jacoco.core-0.7.4.201502262128.jar
+Download https://jcenter.bintray.com/org/antlr/antlr/3.5.2/antlr-3.5.2.jar
+Download https://jcenter.bintray.com/com/android/tools/build/builder-model/2.0.0/builder-model-2.0.0.jar
+Download https://jcenter.bintray.com/com/android/tools/build/builder-test-api/2.0.0/builder-test-api-2.0.0.jar
+Download https://jcenter.bintray.com/com/android/tools/sdklib/25.0.0/sdklib-25.0.0.jar
+Download https://jcenter.bintray.com/com/android/tools/sdk-common/25.0.0/sdk-common-25.0.0.jar
+Download https://jcenter.bintray.com/com/android/tools/common/25.0.0/common-25.0.0.jar
+Download https://jcenter.bintray.com/com/android/tools/build/manifest-merger/25.0.0/manifest-merger-25.0.0.jar
+Download https://jcenter.bintray.com/com/android/tools/ddms/ddmlib/25.0.0/ddmlib-25.0.0.jar
+Download https://jcenter.bintray.com/com/android/tools/jack/jack-api/0.9.0/jack-api-0.9.0.jar
+Download https://jcenter.bintray.com/com/android/tools/jill/jill-api/0.9.0/jill-api-0.9.0.jar
+Download https://jcenter.bintray.com/com/squareup/javawriter/2.5.0/javawriter-2.5.0.jar
+Download https://jcenter.bintray.com/org/bouncycastle/bcpkix-jdk15on/1.48/bcpkix-jdk15on-1.48.jar
+Download https://jcenter.bintray.com/org/bouncycastle/bcprov-jdk15on/1.48/bcprov-jdk15on-1.48.jar
+Download https://jcenter.bintray.com/org/ow2/asm/asm-tree/5.0.3/asm-tree-5.0.3.jar
+Download https://jcenter.bintray.com/com/android/tools/lint/lint-checks/25.0.0/lint-checks-25.0.0.jar
+Download https://jcenter.bintray.com/org/eclipse/jdt/core/compiler/ecj/4.4.2/ecj-4.4.2.jar
+Download https://jcenter.bintray.com/com/android/tools/annotations/25.0.0/annotations-25.0.0.jar
+Download https://jcenter.bintray.com/com/google/guava/guava/17.0/guava-17.0.jar
+Download https://jcenter.bintray.com/com/android/databinding/baseLibrary/2.0.0/baseLibrary-2.0.0.jar
+Download https://jcenter.bintray.com/com/tunnelvisionlabs/antlr4/4.5/antlr4-4.5.jar
+Download https://jcenter.bintray.com/commons-io/commons-io/2.4/commons-io-2.4.jar
+Download https://jcenter.bintray.com/com/googlecode/juniversalchardet/juniversalchardet/1.0.3/juniversalchardet-1.0.3.jar
+Download https://jcenter.bintray.com/net/sf/proguard/proguard-base/5.2.1/proguard-base-5.2.1.jar
+Download https://jcenter.bintray.com/org/ow2/asm/asm-debug-all/5.0.1/asm-debug-all-5.0.1.jar
+Download https://jcenter.bintray.com/org/antlr/antlr-runtime/3.5.2/antlr-runtime-3.5.2.jar
+Download https://jcenter.bintray.com/org/antlr/ST4/4.0.8/ST4-4.0.8.jar
+Download https://jcenter.bintray.com/com/android/tools/layoutlib/layoutlib-api/25.0.0/layoutlib-api-25.0.0.jar
+Download https://jcenter.bintray.com/com/android/tools/dvlib/25.0.0/dvlib-25.0.0.jar
+Download https://jcenter.bintray.com/com/android/tools/repository/25.0.0/repository-25.0.0.jar
+Download https://jcenter.bintray.com/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar
+Download https://jcenter.bintray.com/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar
+Download https://jcenter.bintray.com/org/apache/httpcomponents/httpclient/4.1.1/httpclient-4.1.1.jar
+Download https://jcenter.bintray.com/org/apache/httpcomponents/httpmime/4.1/httpmime-4.1.jar
+Download https://jcenter.bintray.com/net/sf/kxml/kxml2/2.3.0/kxml2-2.3.0.jar
+Download https://jcenter.bintray.com/com/android/tools/lint/lint-api/25.0.0/lint-api-25.0.0.jar
+Download https://jcenter.bintray.com/org/ow2/asm/asm-analysis/5.0.3/asm-analysis-5.0.3.jar
+Download https://jcenter.bintray.com/com/tunnelvisionlabs/antlr4-runtime/4.5/antlr4-runtime-4.5.jar
+Download https://jcenter.bintray.com/com/tunnelvisionlabs/antlr4-annotations/4.5/antlr4-annotations-4.5.jar
+Download https://jcenter.bintray.com/com/intellij/annotations/12.0/annotations-12.0.jar
+Download https://jcenter.bintray.com/org/apache/httpcomponents/httpcore/4.1/httpcore-4.1.jar
+Download https://jcenter.bintray.com/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar
+Download https://jcenter.bintray.com/commons-codec/commons-codec/1.4/commons-codec-1.4.jar
+Download https://jcenter.bintray.com/com/android/tools/external/lombok/lombok-ast/0.2.3/lombok-ast-0.2.3.jar
+Download https://jcenter.bintray.com/org/abego/treelayout/org.abego.treelayout.core/1.0.1/org.abego.treelayout.core-1.0.1.jar
+Download https://jcenter.bintray.com/org/jboss/aerogear/aerogear-android-core/2.0.0/aerogear-android-core-2.0.0.pom
+Download https://jcenter.bintray.com/org/jboss/aerogear/aerogear-parent/0.2.10/aerogear-parent-0.2.10.pom
+Download https://jcenter.bintray.com/org/jboss/jboss-parent/11/jboss-parent-11.pom
+Download https://jcenter.bintray.com/org/jboss/aerogear/aerogear-bom/0.2.10/aerogear-bom-0.2.10.pom
+Download https://jcenter.bintray.com/org/jboss/aerogear/aerogear-android-bom/0.2.10/aerogear-android-bom-0.2.10.pom
+Download https://jcenter.bintray.com/org/jboss/aerogear/aerogear-android-pipe/2.0.0/aerogear-android-pipe-2.0.0.pom
+Download https://jcenter.bintray.com/org/jboss/aerogear/aerogear-android-pipe-parent/2.0.0/aerogear-android-pipe-parent-2.0.0.pom
+Download https://jcenter.bintray.com/org/jboss/aerogear/aerogear-android-auth/2.0.0/aerogear-android-auth-2.0.0.pom
+Download https://jcenter.bintray.com/org/jboss/aerogear/aerogear-android-auth-parent/2.0.0/aerogear-android-auth-parent-2.0.0.pom
+Download https://jcenter.bintray.com/org/jboss/aerogear/aerogear-android-store/2.0.0/aerogear-android-store-2.0.0.pom
+Download https://jcenter.bintray.com/org/jboss/aerogear/aerogear-android-store-parent/2.0.0/aerogear-android-store-parent-2.0.0.pom
+Download https://jcenter.bintray.com/com/google/code/gson/gson/2.3.1/gson-2.3.1.pom
+Download https://jcenter.bintray.com/org/jboss/aerogear/aerogear-android-security/2.0.0/aerogear-android-security-2.0.0.pom
+Download https://jcenter.bintray.com/org/jboss/aerogear/aerogear-android-security-parent/2.0.0/aerogear-android-security-parent-2.0.0.pom
+Download https://jcenter.bintray.com/org/jboss/aerogear/aerogear-crypto/0.1.5/aerogear-crypto-0.1.5.pom
+Download https://jcenter.bintray.com/org/jboss/aerogear/aerogear-parent/0.2.6/aerogear-parent-0.2.6.pom
+Download https://jcenter.bintray.com/org/jboss/aerogear/aerogear-bom/0.2.6/aerogear-bom-0.2.6.pom
+Download https://jcenter.bintray.com/org/jboss/aerogear/aerogear-test-bom/0.2.6/aerogear-test-bom-0.2.6.pom
+Download https://jcenter.bintray.com/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/2.1.1/shrinkwrap-resolver-bom-2.1.1.pom
+Download https://jcenter.bintray.com/org/jboss/arquillian/arquillian-bom/1.1.5.Final/arquillian-bom-1.1.5.Final.pom
+Download https://jcenter.bintray.com/org/jboss/shrinkwrap/shrinkwrap-bom/1.2.2/shrinkwrap-bom-1.2.2.pom
+Download https://jcenter.bintray.com/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/2.1.0/shrinkwrap-resolver-bom-2.1.0.pom
+Download https://jcenter.bintray.com/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-bom/2.0.0-alpha-5/shrinkwrap-descriptors-bom-2.0.0-alpha-5.pom
+Download https://jcenter.bintray.com/org/jboss/arquillian/selenium/selenium-bom/2.42.0/selenium-bom-2.42.0.pom
+Download https://jcenter.bintray.com/org/jboss/arquillian/extension/arquillian-drone-bom/2.0.0.Alpha2/arquillian-drone-bom-2.0.0.Alpha2.pom
+Download https://jcenter.bintray.com/org/jboss/arquillian/selenium/selenium-bom/2.41.0/selenium-bom-2.41.0.pom
+Download https://jcenter.bintray.com/org/jboss/aerogear/aerogear-android-core/2.0.0/aerogear-android-core-2.0.0.aar
+Download https://jcenter.bintray.com/com/google/code/gson/gson/2.3.1/gson-2.3.1.jar
+Download https://jcenter.bintray.com/org/jboss/aerogear/aerogear-android-pipe/2.0.0/aerogear-android-pipe-2.0.0.aar
+Download https://jcenter.bintray.com/org/jboss/aerogear/aerogear-android-auth/2.0.0/aerogear-android-auth-2.0.0.aar
+Download https://jcenter.bintray.com/org/jboss/aerogear/aerogear-crypto/0.1.5/aerogear-crypto-0.1.5-android.jar
+Download https://jcenter.bintray.com/org/jboss/aerogear/aerogear-android-security/2.0.0/aerogear-android-security-2.0.0.aar
+Download https://jcenter.bintray.com/org/jboss/aerogear/aerogear-android-store/2.0.0/aerogear-android-store-2.0.0.aar
+Incremental java compilation is an incubating feature.
+Download https://jcenter.bintray.com/com/jakewharton/disklrucache/2.0.2/disklrucache-2.0.2.pom
+Download https://jcenter.bintray.com/com/jakewharton/disklrucache/2.0.2/disklrucache-2.0.2.jar
+Download https://jcenter.bintray.com/com/google/maps/android/android-maps-utils/0.3.4/android-maps-utils-0.3.4.pom
+Download https://jcenter.bintray.com/com/squareup/okhttp/okhttp/2.7.5/okhttp-2.7.5.pom
+Download https://jcenter.bintray.com/com/squareup/okhttp/parent/2.7.5/parent-2.7.5.pom
+Download https://jcenter.bintray.com/com/squareup/okhttp/okhttp-urlconnection/2.7.5/okhttp-urlconnection-2.7.5.pom
+Download https://jcenter.bintray.com/com/squareup/picasso/picasso/2.5.2/picasso-2.5.2.pom
+Download https://jcenter.bintray.com/com/squareup/picasso/picasso-parent/2.5.2/picasso-parent-2.5.2.pom
+Download https://jcenter.bintray.com/com/jakewharton/butterknife/7.0.1/butterknife-7.0.1.pom
+Download https://jcenter.bintray.com/com/jakewharton/butterknife-parent/7.0.1/butterknife-parent-7.0.1.pom
+Download https://jcenter.bintray.com/com/github/siyamed/android-shape-imageview/0.9.3/android-shape-imageview-0.9.3.pom
+Download https://jcenter.bintray.com/com/squareup/okio/okio/1.6.0/okio-1.6.0.pom
+Download https://jcenter.bintray.com/com/squareup/okio/okio-parent/1.6.0/okio-parent-1.6.0.pom
+Download https://jcenter.bintray.com/com/google/maps/android/android-maps-utils/0.3.4/android-maps-utils-0.3.4.aar
+Download https://jcenter.bintray.com/com/squareup/okio/okio/1.6.0/okio-1.6.0.jar
+Download https://jcenter.bintray.com/com/squareup/okhttp/okhttp/2.7.5/okhttp-2.7.5.jar
+Download https://jcenter.bintray.com/com/squareup/okhttp/okhttp-urlconnection/2.7.5/okhttp-urlconnection-2.7.5.jar
+Download https://jcenter.bintray.com/com/squareup/picasso/picasso/2.5.2/picasso-2.5.2.jar
+Download https://jcenter.bintray.com/com/jakewharton/butterknife/7.0.1/butterknife-7.0.1.jar
+Download https://jcenter.bintray.com/com/github/siyamed/android-shape-imageview/0.9.3/android-shape-imageview-0.9.3.aar
+:app:preBuild UP-TO-DATE
+:app:preDebugBuild UP-TO-DATE
+:app:checkDebugManifest
+:app:preReleaseBuild UP-TO-DATE
+:devnexusclientlibrary:preBuild UP-TO-DATE
+:devnexusclientlibrary:preReleaseBuild UP-TO-DATE
+:devnexusclientlibrary:compileReleaseNdk UP-TO-DATE
+:devnexusclientlibrary:compileLint
+:devnexusclientlibrary:copyReleaseLint UP-TO-DATE
+:devnexusclientlibrary:mergeReleaseProguardFiles
+:devnexusclientlibrary:packageReleaseRenderscript UP-TO-DATE
+:devnexusclientlibrary:checkReleaseManifest
+:devnexusclientlibrary:preDebugAndroidTestBuild UP-TO-DATE
+:devnexusclientlibrary:preDebugBuild UP-TO-DATE
+:devnexusclientlibrary:preDebugUnitTestBuild UP-TO-DATE
+:devnexusclientlibrary:preReleaseUnitTestBuild UP-TO-DATE
+:devnexusclientlibrary:prepareOrgJbossAerogearAerogearAndroidAuth200Library
+:devnexusclientlibrary:prepareOrgJbossAerogearAerogearAndroidCore200Library
+:devnexusclientlibrary:prepareOrgJbossAerogearAerogearAndroidPipe200Library
+:devnexusclientlibrary:prepareOrgJbossAerogearAerogearAndroidSecurity200Library
+:devnexusclientlibrary:prepareOrgJbossAerogearAerogearAndroidStore200Library
+:devnexusclientlibrary:prepareReleaseDependencies
+:devnexusclientlibrary:compileReleaseRenderscript
+:devnexusclientlibrary:generateReleaseResValues
+:devnexusclientlibrary:generateReleaseResources
+:devnexusclientlibrary:packageReleaseResources
+:devnexusclientlibrary:compileReleaseAidl
+:devnexusclientlibrary:generateReleaseBuildConfig
+:devnexusclientlibrary:generateReleaseAssets UP-TO-DATE
+:devnexusclientlibrary:mergeReleaseAssets
+:devnexusclientlibrary:mergeReleaseResources
+:devnexusclientlibrary:processReleaseManifest
+:devnexusclientlibrary:processReleaseResources
+:devnexusclientlibrary:generateReleaseSources
+:devnexusclientlibrary:compileReleaseJavaWithJavac
+:devnexusclientlibrary:processReleaseJavaRes UP-TO-DATE
+:devnexusclientlibrary:transformResourcesWithMergeJavaResForRelease
+:devnexusclientlibrary:transformClassesAndResourcesWithSyncLibJarsForRelease
+:devnexusclientlibrary:mergeReleaseJniLibFolders
+:devnexusclientlibrary:transformNative_libsWithMergeJniLibsForRelease
+:devnexusclientlibrary:transformNative_libsWithSyncJniLibsForRelease
+:devnexusclientlibrary:bundleRelease
+:google-io-utils:preBuild UP-TO-DATE
+:google-io-utils:preReleaseBuild UP-TO-DATE
+:google-io-utils:compileReleaseNdk UP-TO-DATE
+:google-io-utils:compileLint
+:google-io-utils:copyReleaseLint UP-TO-DATE
+:google-io-utils:checkReleaseManifest
+:google-io-utils:preDebugAndroidTestBuild UP-TO-DATE
+:google-io-utils:preDebugBuild UP-TO-DATE
+:google-io-utils:preDebugUnitTestBuild UP-TO-DATE
+:google-io-utils:preReleaseUnitTestBuild UP-TO-DATE
+:google-io-utils:prepareComAndroidSupportAppcompatV72310Library
+:google-io-utils:prepareComAndroidSupportSupportV42310Library
+:google-io-utils:prepareComGoogleAndroidGmsPlayServicesBase830Library
+:google-io-utils:prepareComGoogleAndroidGmsPlayServicesBasement830Library
+:google-io-utils:prepareComGoogleAndroidGmsPlayServicesMaps830Library
+:google-io-utils:prepareReleaseDependencies
+:google-io-utils:compileReleaseAidl
+:google-io-utils:compileReleaseRenderscript
+:google-io-utils:generateReleaseBuildConfig
+:google-io-utils:generateReleaseAssets UP-TO-DATE
+:google-io-utils:mergeReleaseAssets
+:google-io-utils:generateReleaseResValues
+:google-io-utils:generateReleaseResources
+:google-io-utils:mergeReleaseResources
+:google-io-utils:processReleaseManifest
+:google-io-utils:processReleaseResources
+:google-io-utils:generateReleaseSources
+:google-io-utils:compileReleaseJavaWithJavac
+:google-io-utils:extractReleaseAnnotations
+:google-io-utils:mergeReleaseProguardFiles
+:google-io-utils:packageReleaseRenderscript UP-TO-DATE
+:google-io-utils:packageReleaseResources
+:google-io-utils:processReleaseJavaRes UP-TO-DATE
+:google-io-utils:transformResourcesWithMergeJavaResForRelease
+:google-io-utils:transformClassesAndResourcesWithSyncLibJarsForRelease
+ImmutableJarInput{name=main, file=/app/google-io-utils/build/intermediates/transforms/mergeJavaRes/release/jars/2/3/main.jar, contentTypes=RESOURCES, scopes=PROJECT,PROJECT_LOCAL_DEPS, status=NOTCHANGED}
+ImmutableDirectoryInput{name=076a91c99710fb709cd05c02671c1ba273d00276, file=/app/google-io-utils/build/intermediates/classes/release, contentTypes=CLASSES, scopes=PROJECT, changedFiles={}}
+:google-io-utils:mergeReleaseJniLibFolders
+:google-io-utils:transformNative_libsWithMergeJniLibsForRelease
+:google-io-utils:transformNative_libsWithSyncJniLibsForRelease
+:google-io-utils:bundleRelease
+:app:prepareAppDevnexusclientlibraryUnspecifiedLibrary
+:app:prepareAppGoogleIoUtilsUnspecifiedLibrary
+:app:prepareComAndroidSupportAppcompatV72311Library
+:app:prepareComAndroidSupportCardviewV72311Library
+:app:prepareComAndroidSupportDesign2311Library
+:app:prepareComAndroidSupportRecyclerviewV72311Library
+:app:prepareComAndroidSupportSupportV132311Library
+:app:prepareComAndroidSupportSupportV42311Library
+:app:prepareComGithubSiyamedAndroidShapeImageview093Library
+:app:prepareComGoogleAndroidGmsPlayServicesAuth830Library
+:app:prepareComGoogleAndroidGmsPlayServicesBase830Library
+:app:prepareComGoogleAndroidGmsPlayServicesBasement830Library
+:app:prepareComGoogleAndroidGmsPlayServicesIdentity830Library
+:app:prepareComGoogleAndroidGmsPlayServicesMaps830Library
+:app:prepareComGoogleAndroidGmsPlayServicesMeasurement830Library
+:app:prepareComGoogleAndroidGmsPlayServicesVision830Library
+:app:prepareComGoogleMapsAndroidAndroidMapsUtils034Library
+:app:prepareOrgJbossAerogearAerogearAndroidAuth200Library
+:app:prepareOrgJbossAerogearAerogearAndroidCore200Library
+:app:prepareOrgJbossAerogearAerogearAndroidPipe200Library
+:app:prepareOrgJbossAerogearAerogearAndroidSecurity200Library
+:app:prepareOrgJbossAerogearAerogearAndroidStore200Library
+:app:prepareDebugDependencies
+:app:compileDebugAidl
+:app:compileDebugRenderscript
+:app:generateDebugBuildConfig
+:app:generateDebugAssets UP-TO-DATE
+:app:mergeDebugAssets
+:app:generateDebugResValues
+:app:processDebugGoogleServices
+No matching client found for package name 'org.devnexus'
+:app:generateDebugResources
+:app:mergeDebugResources
+:app:processDebugManifest
+/app/app/src/main/AndroidManifest.xml:28:5-79 Warning:
+	Element uses-permission#android.permission.ACCESS_NETWORK_STATE at AndroidManifest.xml:28:5-79 duplicated with element declared at AndroidManifest.xml:17:5-79
+/app/app/src/main/AndroidManifest.xml:30:5-81 Warning:
+	Element uses-permission#android.permission.WRITE_EXTERNAL_STORAGE at AndroidManifest.xml:30:5-81 duplicated with element declared at AndroidManifest.xml:24:5-81
+:app:processDebugResources
+:app:generateDebugSources
+:app:compileDebugJavaWithJavac
+:app:compileDebugNdk UP-TO-DATE
+:app:compileDebugSources
+:app:prePackageMarkerForDebug
+:app:transformClassesWithDexForDebug
+:app:mergeDebugJniLibFolders
+:app:transformNative_libsWithMergeJniLibsForDebug
+:app:processDebugJavaRes UP-TO-DATE
+:app:transformResourcesWithMergeJavaResForDebug
+:app:validateDebugSigning
+:app:packageDebug
+:app:zipalignDebug
+:app:assembleDebug
+:devnexusclientlibrary:compileDebugNdk UP-TO-DATE
+:devnexusclientlibrary:copyDebugLint UP-TO-DATE
+:devnexusclientlibrary:mergeDebugProguardFiles
+:devnexusclientlibrary:packageDebugRenderscript UP-TO-DATE
+:devnexusclientlibrary:checkDebugManifest
+:devnexusclientlibrary:prepareDebugDependencies
+:devnexusclientlibrary:compileDebugRenderscript
+:devnexusclientlibrary:generateDebugResValues
+:devnexusclientlibrary:generateDebugResources
+:devnexusclientlibrary:packageDebugResources
+:devnexusclientlibrary:compileDebugAidl
+:devnexusclientlibrary:generateDebugBuildConfig
+:devnexusclientlibrary:generateDebugAssets UP-TO-DATE
+:devnexusclientlibrary:mergeDebugAssets
+:devnexusclientlibrary:mergeDebugResources
+:devnexusclientlibrary:processDebugManifest
+:devnexusclientlibrary:processDebugResources
+:devnexusclientlibrary:generateDebugSources
+:devnexusclientlibrary:compileDebugJavaWithJavac
+:devnexusclientlibrary:processDebugJavaRes UP-TO-DATE
+:devnexusclientlibrary:transformResourcesWithMergeJavaResForDebug
+:devnexusclientlibrary:transformClassesAndResourcesWithSyncLibJarsForDebug
+:devnexusclientlibrary:mergeDebugJniLibFolders
+:devnexusclientlibrary:transformNative_libsWithMergeJniLibsForDebug
+:devnexusclientlibrary:transformNative_libsWithSyncJniLibsForDebug
+:devnexusclientlibrary:bundleDebug
+:devnexusclientlibrary:compileDebugSources
+:devnexusclientlibrary:assembleDebug
+:devnexusclientsdktest:preBuild UP-TO-DATE
+:devnexusclientsdktest:preDebugBuild UP-TO-DATE
+:devnexusclientsdktest:checkDebugManifest
+:devnexusclientsdktest:preReleaseBuild UP-TO-DATE
+:devnexusclientsdktest:prepareAppDevnexusclientlibraryUnspecifiedLibrary
+:devnexusclientsdktest:prepareOrgJbossAerogearAerogearAndroidAuth200Library
+:devnexusclientsdktest:prepareOrgJbossAerogearAerogearAndroidCore200Library
+:devnexusclientsdktest:prepareOrgJbossAerogearAerogearAndroidPipe200Library
+:devnexusclientsdktest:prepareOrgJbossAerogearAerogearAndroidSecurity200Library
+:devnexusclientsdktest:prepareOrgJbossAerogearAerogearAndroidStore200Library
+:devnexusclientsdktest:prepareDebugDependencies
+:devnexusclientsdktest:compileDebugAidl
+:devnexusclientsdktest:compileDebugRenderscript
+:devnexusclientsdktest:generateDebugBuildConfig
+:devnexusclientsdktest:generateDebugAssets UP-TO-DATE
+:devnexusclientsdktest:mergeDebugAssets
+:devnexusclientsdktest:generateDebugResValues
+:devnexusclientsdktest:generateDebugResources
+:devnexusclientsdktest:mergeDebugResources
+:devnexusclientsdktest:processDebugManifest
+:devnexusclientsdktest:processDebugResources
+:devnexusclientsdktest:generateDebugSources
+:devnexusclientsdktest:compileDebugJavaWithJavac
+:devnexusclientsdktest:compileDebugNdk UP-TO-DATE
+:devnexusclientsdktest:compileDebugSources
+:devnexusclientsdktest:prePackageMarkerForDebug
+:devnexusclientsdktest:transformClassesWithDexForDebug
+:devnexusclientsdktest:mergeDebugJniLibFolders
+:devnexusclientsdktest:transformNative_libsWithMergeJniLibsForDebug
+:devnexusclientsdktest:processDebugJavaRes UP-TO-DATE
+:devnexusclientsdktest:transformResourcesWithMergeJavaResForDebug
+:devnexusclientsdktest:validateDebugSigning
+:devnexusclientsdktest:packageDebug
+:devnexusclientsdktest:zipalignDebug
+:devnexusclientsdktest:assembleDebug
+:google-io-utils:compileDebugNdk UP-TO-DATE
+:google-io-utils:copyDebugLint UP-TO-DATE
+:google-io-utils:checkDebugManifest
+:google-io-utils:prepareDebugDependencies
+:google-io-utils:compileDebugAidl
+:google-io-utils:compileDebugRenderscript
+:google-io-utils:generateDebugBuildConfig
+:google-io-utils:generateDebugAssets UP-TO-DATE
+:google-io-utils:mergeDebugAssets
+:google-io-utils:generateDebugResValues
+:google-io-utils:generateDebugResources
+:google-io-utils:mergeDebugResources
+:google-io-utils:processDebugManifest
+:google-io-utils:processDebugResources
+:google-io-utils:generateDebugSources
+:google-io-utils:compileDebugJavaWithJavac
+:google-io-utils:extractDebugAnnotations
+:google-io-utils:mergeDebugProguardFiles
+:google-io-utils:packageDebugRenderscript UP-TO-DATE
+:google-io-utils:packageDebugResources
+:google-io-utils:processDebugJavaRes UP-TO-DATE
+:google-io-utils:transformResourcesWithMergeJavaResForDebug
+:google-io-utils:transformClassesAndResourcesWithSyncLibJarsForDebug
+ImmutableJarInput{name=main, file=/app/google-io-utils/build/intermediates/transforms/mergeJavaRes/debug/jars/2/3/main.jar, contentTypes=RESOURCES, scopes=PROJECT,PROJECT_LOCAL_DEPS, status=NOTCHANGED}
+ImmutableDirectoryInput{name=09a0faebe6c0d9764bbe13ae83a067144c8f026a, file=/app/google-io-utils/build/intermediates/classes/debug, contentTypes=CLASSES, scopes=PROJECT, changedFiles={}}
+:google-io-utils:mergeDebugJniLibFolders
+:google-io-utils:transformNative_libsWithMergeJniLibsForDebug
+:google-io-utils:transformNative_libsWithSyncJniLibsForDebug
+:google-io-utils:bundleDebug
+:google-io-utils:compileDebugSources
+:google-io-utils:assembleDebug
+
+BUILD SUCCESSFUL
+
+Total time: 3 mins 55.525 secs
+
+This build could be faster, please consider using the Gradle Daemon: https://docs.gradle.org/2.10/userguide/gradle_daemon.html
